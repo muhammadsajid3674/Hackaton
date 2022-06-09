@@ -1,0 +1,36 @@
+* a {
+  text-decoration: none;
+}
+* a:hover {
+  text-decoration: underline;
+}
+
+.sectionCol1Img {
+  background-image: url(https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/03banner-01.jpg);
+  background-size: cover;
+}
+.sectionCol2Img {
+  background-image: url(https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/03banner-02.jpg);
+  background-size: cover;
+}
+.sectionCol3Img {
+  background-image: url(https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/03banner-03.jpg);
+  background-size: cover;
+}
+.section3 {
+  background-image: url(https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/bg_block.jpg);
+  background-size: cover;
+  height: 60vh;
+}
+
+.redLine {
+  border: 2px solid red;
+  width: 50px;
+  margin-top: 30px !important;
+  margin: auto;
+}
+
+.card:hover {
+  border-color: red;
+  cursor: pointer;
+}
