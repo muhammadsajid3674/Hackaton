@@ -1,8 +1,11 @@
 * a {
+  color: #000;
+  opacity: 0.8;
   text-decoration: none;
 }
 * a:hover {
   text-decoration: underline;
+  cursor: pointer;
 }
 
 .sectionCol1Img {
@@ -33,4 +36,13 @@
 .card:hover {
   border-color: red;
   cursor: pointer;
+}
+
+.nav-link:hover {
+  color: red;
+}
+
+.footerCusthead {
+  border-bottom: 2px solid red;
+  padding: 5px;
 }
